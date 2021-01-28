@@ -11,3 +11,4 @@ public class Class1 {
 //"Removed f3()"
 //"Removed f2()"
 }
+
